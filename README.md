@@ -8,7 +8,7 @@
 ![Scientific Research](https://img.shields.io/badge/Scientific%20Research-green?style=for-the-badge)
 
 
-Technical portfolio combining data analytics, chemical engineering, and project management.
+Technical portfolio combining data analytics, chemical engineering, and project management to solve scientific, environmental, and engineering problems.
 
 This repository includes projects related to:
 
