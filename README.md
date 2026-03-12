@@ -1,11 +1,11 @@
 # Portfolio – Jennifer Artunian
 
 
-![Data Analytics](https://img.shields.io/badge/Data-Analytics-blue)
-![Data Visualization](https://img.shields.io/badge/Data-Visualization-orange)
-![Chemical Engineering](https://img.shields.io/badge/Chemical%20Engineering-red)
-![Project Management](https://img.shields.io/badge/Project%20Management-purple)
-![Scientific Research](https://img.shields.io/badge/Scientific-Research-green)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-blue?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-orange?style=for-the-badge)
+![Chemical Engineering](https://img.shields.io/badge/Chemical%20Engineering-red?style=for-the-badge)
+![Project Management](https://img.shields.io/badge/Project%20Management-purple?style=for-the-badge)
+![Scientific Research](https://img.shields.io/badge/Scientific%20Research-green?style=for-the-badge)
 
 
 Technical portfolio combining data analytics, chemical engineering, and project management.
