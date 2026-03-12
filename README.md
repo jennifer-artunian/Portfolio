@@ -1,5 +1,11 @@
 # Portfolio – Jennifer Artunian
 
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![SQL](https://img.shields.io/badge/SQL-Database-green)
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange)
+![Chemical Engineering](https://img.shields.io/badge/Chemical-Engineering-red)
+![Project Management](https://img.shields.io/badge/Project-Management-purple)
+
 Technical portfolio combining data analytics, chemical engineering, and project management.
 
 This repository includes projects related to:
