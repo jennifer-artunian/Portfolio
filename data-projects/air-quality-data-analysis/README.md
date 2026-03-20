@@ -20,7 +20,8 @@ This project analyzes the relationship between air particulate matter (PM) level
 - Pandas
 - GeoPandas
 - NumPy  
-- Matplotlib / Seaborn  
+- Matplotlib / Seaborn
+- Scikit-learn (Machine Learning)   
 
 ---
 
@@ -28,7 +29,8 @@ This project analyzes the relationship between air particulate matter (PM) level
 
 - Data cleaning and preprocessing  
 - Exploratory Data Analysis (EDA)  
-- Correlation analysis between temperature and PM levels  
+- Correlation analysis between temperature and PM levels 
+- Predictive modeling using Scikit-learn
 - Visualization of trends over time  
 
 ---
