@@ -70,3 +70,10 @@ This pipeline enabled efficient processing, analysis, and interpretation of larg
 
 ## 🚀 Key Takeaway
 This project demonstrates the ability to work with complex, real-world datasets and extract actionable insights using data-driven approaches.
+
+## 📎 Project Poster
+
+You can view the full project poster here:
+
+[Download Poster](./small-rna-analysis-poster.pdf)
+
