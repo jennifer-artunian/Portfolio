@@ -17,7 +17,8 @@ This project analyzes the relationship between air particulate matter (PM) level
 ## 🛠️ Tools & Technologies
 
 - Python (Jupyter Notebook)  
-- Pandas  
+- Pandas
+- GeoPandas
 - NumPy  
 - Matplotlib / Seaborn  
 
